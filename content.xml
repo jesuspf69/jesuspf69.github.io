@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260324200636BPM1GK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202603242006366TGS5G</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Explorando los Sistemas Operativos y las Redes en el mundo digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Jesús Prieto Fuentes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje sobre Sistemas Operativos y Redes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774374788991</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>52a4a506-cf75-4ff1-9c70-2b53f9ca1999</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Explorando los Sistemas Operativos y las Redes en el mundo digital</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Explorando los Sistemas Operativos y las Redes en el mundo digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Explorando los Sistemas Operativos y las Redes en el mundo digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>52a4a506-cf75-4ff1-9c70-2b53f9ca1999</odePageId>
+      <odeBlockId>block-1774296039950-74d3jz2dp</odeBlockId>
+      <blockName>Descripción de la situación de aprendizaje</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>52a4a506-cf75-4ff1-9c70-2b53f9ca1999</odePageId>
+          <odeBlockId>block-1774296039950-74d3jz2dp</odeBlockId>
+          <odeIdeviceId>idevice-1774296039948-9kny96w5u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Etapa educativa y nivel al que se dirige: </strong></p>
+<p>ESPA (Educación Secundaria para Personas Adultas). Nivel 2.2</p>
+<p><strong>Módulos implicados: </strong></p>
+<p>Competencia digital y alfabetización tecnológica, con especial atención a los contenidos relacionados con la evolución de los sistemas operativos, su funcionamiento, la organización de las redes, la seguridad informática y los principales retos tecnológicos actuales.</p>
+<p><strong>Agrupamientos y organización espacial:</strong></p>
+<p>Los agrupamientos propuestos incluyen trabajo en gran grupo, en pequeños grupos e individualizado. Esta combinación permite atender a la diversidad del alumnado, favoreciendo la participación activa y adaptándose a diferentes ritmos de aprendizaje, en línea con los principios del Diseño Universal para el Aprendizaje. Las sesiones se desarrollarán en el aula de referencia, con disposición flexible del mobiliario para facilitar tanto el trabajo cooperativo como el individual. En aquellas actividades que requieran el uso de herramientas digitales, se utilizará el aula de informática, organizando al alumnado en grupos para fomentar la colaboración, el apoyo mutuo y la resolución conjunta de dificultades técnicas.</p>
+<p><strong>Temporalización: </strong></p>
+<p>Segunda mitad del segundo cuatrimestre. Seis sesiones dedicadas al desarrollo de contenidos relacionados con la historia y evolución de los sistemas operativos, su funcionamiento, las redes de comunicación, la seguridad informática y las tendencias tecnológicas actuales.</p>
+<p><strong>Productos intermedios y producto final:</strong></p>
+<ul>
+<li>Investigación y recopilación de información sobre la evolución de los sistemas operativos, sus funciones principales, los tipos de redes y las amenazas más comunes en entornos digitales, reflejada en una ficha de trabajo.</li>
+<li>Diseño y creación de una infografía interactiva sobre sistemas operativos, redes y seguridad informática, incluyendo conceptos clave, ejemplos y recomendaciones de uso seguro.</li>
+<li>Elaboración de un guion para la grabación de un podcast centrado en la importancia de los sistemas operativos y las redes en la vida cotidiana, así como en los riesgos y medidas básicas de protección digital.</li>
+<li>Grabación y edición del podcast, integrando vocabulario específico y una explicación clara y accesible de los contenidos trabajados.</li>
+<li>Presentación oral final en el aula de la infografía y difusión de los productos mediante la creación de códigos QR que permitan compartir la información con la comunidad educativa.</li>
+</ul>
+<p><strong>Herramientas tecnológicas que usarán docente y alumnado:</strong><br /></p>
+<p>Microsoft 365 se utilizará para la elaboración de documentos y la comunicación a través de Teams, al ser una herramienta accesible para el alumnado. Canva y Genially se emplearán para el diseño de infografías interactivas, por su facilidad de uso y su potencial visual. Audacity y Vocaroo se utilizarán para la grabación y edición de podcasts, permitiendo adaptarse a distintos niveles de competencia digital.</p>
+<p>Además, se recurrirá a recursos audiovisuales como YouTube para reforzar los contenidos relacionados con sistemas operativos, redes, virtualización y ciberseguridad. Para el desarrollo de la SdA serán necesarios dispositivos informáticos, conexión a Internet cuando esté disponible, micrófono, altavoces, proyector y pantalla digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774296039948-9kny96w5u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Etapa educativa y nivel al que se dirige: </strong></p>\n<p>ESPA (Educación Secundaria para Personas Adultas). Nivel 2.2</p>\n<p><strong>Módulos implicados: </strong></p>\n<p>Competencia digital y alfabetización tecnológica, con especial atención a los contenidos relacionados con la evolución de los sistemas operativos, su funcionamiento, la organización de las redes, la seguridad informática y los principales retos tecnológicos actuales.</p>\n<p><strong>Agrupamientos y organización espacial:</strong></p>\n<p>Los agrupamientos propuestos incluyen trabajo en gran grupo, en pequeños grupos e individualizado. Esta combinación permite atender a la diversidad del alumnado, favoreciendo la participación activa y adaptándose a diferentes ritmos de aprendizaje, en línea con los principios del Diseño Universal para el Aprendizaje. Las sesiones se desarrollarán en el aula de referencia, con disposición flexible del mobiliario para facilitar tanto el trabajo cooperativo como el individual. En aquellas actividades que requieran el uso de herramientas digitales, se utilizará el aula de informática, organizando al alumnado en grupos para fomentar la colaboración, el apoyo mutuo y la resolución conjunta de dificultades técnicas.</p>\n<p><strong>Temporalización: </strong></p>\n<p>Segunda mitad del segundo cuatrimestre. Seis sesiones dedicadas al desarrollo de contenidos relacionados con la historia y evolución de los sistemas operativos, su funcionamiento, las redes de comunicación, la seguridad informática y las tendencias tecnológicas actuales.</p>\n<p><strong>Productos intermedios y producto final:</strong></p>\n<ul>\n<li>Investigación y recopilación de información sobre la evolución de los sistemas operativos, sus funciones principales, los tipos de redes y las amenazas más comunes en entornos digitales, reflejada en una ficha de trabajo.</li>\n<li>Diseño y creación de una infografía interactiva sobre sistemas operativos, redes y seguridad informática, incluyendo conceptos clave, ejemplos y recomendaciones de uso seguro.</li>\n<li>Elaboración de un guion para la grabación de un podcast centrado en la importancia de los sistemas operativos y las redes en la vida cotidiana, así como en los riesgos y medidas básicas de protección digital.</li>\n<li>Grabación y edición del podcast, integrando vocabulario específico y una explicación clara y accesible de los contenidos trabajados.</li>\n<li>Presentación oral final en el aula de la infografía y difusión de los productos mediante la creación de códigos QR que permitan compartir la información con la comunidad educativa.</li>\n</ul>\n<p><strong>Herramientas tecnológicas que usarán docente y alumnado:</strong><br /></p>\n<p>Microsoft 365 se utilizará para la elaboración de documentos y la comunicación a través de Teams, al ser una herramienta accesible para el alumnado. Canva y Genially se emplearán para el diseño de infografías interactivas, por su facilidad de uso y su potencial visual. Audacity y Vocaroo se utilizarán para la grabación y edición de podcasts, permitiendo adaptarse a distintos niveles de competencia digital.</p>\n<p>Además, se recurrirá a recursos audiovisuales como YouTube para reforzar los contenidos relacionados con sistemas operativos, redes, virtualización y ciberseguridad. Para el desarrollo de la SdA serán necesarios dispositivos informáticos, conexión a Internet cuando esté disponible, micrófono, altavoces, proyector y pantalla digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>52a4a506-cf75-4ff1-9c70-2b53f9ca1999</odePageId>
+      <odeBlockId>block-1774296870690-bzk8i12lq</odeBlockId>
+      <blockName>Contexto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>52a4a506-cf75-4ff1-9c70-2b53f9ca1999</odePageId>
+          <odeBlockId>block-1774296870690-bzk8i12lq</odeBlockId>
+          <odeIdeviceId>idevice-1774296870688-o2q7k4dve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado adulto presenta una serie de fortalezas que favorecen el desarrollo de esta situación de aprendizaje. Su experiencia personal y profesional les permite comprender la importancia de la tecnología en la vida cotidiana, ya que utilizan con frecuencia dispositivos digitales para comunicarse, trabajar, informarse o realizar gestiones personales. Esta cercanía con el contenido facilita la conexión entre los aprendizajes y situaciones reales, contribuyendo a una mayor motivación e implicación en el aula.</p>
+<p>Asimismo, el hecho de haber retomado voluntariamente sus estudios implica, en muchos casos, una predisposición positiva hacia el aprendizaje, especialmente cuando los contenidos tienen una aplicación práctica y funcional. Comprender qué es un sistema operativo, cómo se organizan las redes o cuáles son los riesgos más frecuentes en Internet les permite desenvolverse con mayor autonomía y seguridad en entornos digitales.</p>
+<p>No obstante, también se deben considerar ciertas barreras. La disponibilidad de tiempo fuera del aula es limitada debido a responsabilidades laborales y familiares. Además, existe una notable heterogeneidad en cuanto al nivel de competencia digital, lo que puede generar dificultades en el uso de determinadas herramientas tecnológicas y en la comprensión de algunos conceptos más técnicos.</p>
+<p>A ello se suma la posible brecha digital en parte del alumnado, así como las limitaciones del centro, que carece de conexión WiFi y dispone de un acceso restringido al aula de informática. Estas circunstancias hacen necesario plantear actividades flexibles, accesibles y adaptadas a los recursos disponibles, priorizando el aprendizaje significativo, el apoyo entre iguales y la adquisición progresiva de competencias digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774296870688-o2q7k4dve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado adulto presenta una serie de fortalezas que favorecen el desarrollo de esta situación de aprendizaje. Su experiencia personal y profesional les permite comprender la importancia de la tecnología en la vida cotidiana, ya que utilizan con frecuencia dispositivos digitales para comunicarse, trabajar, informarse o realizar gestiones personales. Esta cercanía con el contenido facilita la conexión entre los aprendizajes y situaciones reales, contribuyendo a una mayor motivación e implicación en el aula.</p>\n<p>Asimismo, el hecho de haber retomado voluntariamente sus estudios implica, en muchos casos, una predisposición positiva hacia el aprendizaje, especialmente cuando los contenidos tienen una aplicación práctica y funcional. Comprender qué es un sistema operativo, cómo se organizan las redes o cuáles son los riesgos más frecuentes en Internet les permite desenvolverse con mayor autonomía y seguridad en entornos digitales.</p>\n<p>No obstante, también se deben considerar ciertas barreras. La disponibilidad de tiempo fuera del aula es limitada debido a responsabilidades laborales y familiares. Además, existe una notable heterogeneidad en cuanto al nivel de competencia digital, lo que puede generar dificultades en el uso de determinadas herramientas tecnológicas y en la comprensión de algunos conceptos más técnicos.</p>\n<p>A ello se suma la posible brecha digital en parte del alumnado, así como las limitaciones del centro, que carece de conexión WiFi y dispone de un acceso restringido al aula de informática. Estas circunstancias hacen necesario plantear actividades flexibles, accesibles y adaptadas a los recursos disponibles, priorizando el aprendizaje significativo, el apoyo entre iguales y la adquisición progresiva de competencias digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+      <odeBlockId>block-1774297460696-fvf8odzuv</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+          <odeBlockId>block-1774297460696-fvf8odzuv</odeBlockId>
+          <odeIdeviceId>idevice-1774297460695-tonmmawf8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se centra en el conocimiento y comprensión de los sistemas operativos, las redes y la seguridad informática, elementos fundamentales para entender el funcionamiento de la tecnología que utilizamos de forma cotidiana. En una sociedad cada vez más digitalizada, resulta imprescindible que el alumnado adquiera saberes que le permitan no solo utilizar dispositivos y servicios digitales, sino también comprender de manera básica cómo funcionan y cómo se relacionan entre sí.</p>
+<p>El estudio de los sistemas operativos permite conocer cómo se gestionan los recursos de un dispositivo, cómo evolucionaron a lo largo del tiempo y cuál es su papel en la interacción entre el hardware y el software. Del mismo modo, el acercamiento a las redes y sus componentes facilita la comprensión de cómo se produce la comunicación entre dispositivos, qué tipos de conexiones existen y qué protocolos hacen posible el intercambio de información.</p>
+<p>Asimismo, esta situación de aprendizaje incorpora la dimensión de la seguridad informática, ya que el uso de sistemas operativos y redes conlleva también la necesidad de identificar riesgos asociados al entorno digital, como el malware, el phishing, la pérdida de datos o los accesos no autorizados. A través de esta propuesta, se busca que el alumnado desarrolle una visión global y funcional de la tecnología, adquiriendo habilidades prácticas para desenvolverse con mayor autonomía, seguridad y responsabilidad en contextos digitales.</p>
+<p>Además, se promueve el pensamiento crítico ante el uso de la tecnología, fomentando la reflexión sobre su evolución, sus posibilidades, sus riesgos y su impacto en la vida diaria. De este modo, la propuesta contribuye al desarrollo integral del alumnado y a su preparación para afrontar los desafíos tecnológicos del mundo actual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297460695-tonmmawf8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se centra en el conocimiento y comprensión de los sistemas operativos, las redes y la seguridad informática, elementos fundamentales para entender el funcionamiento de la tecnología que utilizamos de forma cotidiana. En una sociedad cada vez más digitalizada, resulta imprescindible que el alumnado adquiera saberes que le permitan no solo utilizar dispositivos y servicios digitales, sino también comprender de manera básica cómo funcionan y cómo se relacionan entre sí.</p>\n<p>El estudio de los sistemas operativos permite conocer cómo se gestionan los recursos de un dispositivo, cómo evolucionaron a lo largo del tiempo y cuál es su papel en la interacción entre el hardware y el software. Del mismo modo, el acercamiento a las redes y sus componentes facilita la comprensión de cómo se produce la comunicación entre dispositivos, qué tipos de conexiones existen y qué protocolos hacen posible el intercambio de información.</p>\n<p>Asimismo, esta situación de aprendizaje incorpora la dimensión de la seguridad informática, ya que el uso de sistemas operativos y redes conlleva también la necesidad de identificar riesgos asociados al entorno digital, como el malware, el phishing, la pérdida de datos o los accesos no autorizados. A través de esta propuesta, se busca que el alumnado desarrolle una visión global y funcional de la tecnología, adquiriendo habilidades prácticas para desenvolverse con mayor autonomía, seguridad y responsabilidad en contextos digitales.</p>\n<p>Además, se promueve el pensamiento crítico ante el uso de la tecnología, fomentando la reflexión sobre su evolución, sus posibilidades, sus riesgos y su impacto en la vida diaria. De este modo, la propuesta contribuye al desarrollo integral del alumnado y a su preparación para afrontar los desafíos tecnológicos del mundo actual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+      <odeBlockId>block-1774297507455-v7z0jjp3y</odeBlockId>
+      <blockName>Relación con los ODS</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+          <odeBlockId>block-1774297507455-v7z0jjp3y</odeBlockId>
+          <odeIdeviceId>idevice-1774297507453-3jveajqvt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se vincula con los siguientes Objetivos de Desarrollo Sostenible:</p>
+<ul>
+<li>ODS 4: Educación de calidad, al promover el acceso a conocimientos digitales esenciales y favorecer un aprendizaje significativo, funcional y conectado con la realidad del alumnado.</li>
+<li>ODS 9: Industria, innovación e infraestructura, al desarrollar competencias relacionadas con la comprensión de los sistemas tecnológicos, las redes de comunicación y la innovación digital, aspectos clave en la sociedad contemporánea.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297507453-3jveajqvt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se vincula con los siguientes Objetivos de Desarrollo Sostenible:</p>\n<ul>\n<li>ODS 4: Educación de calidad, al promover el acceso a conocimientos digitales esenciales y favorecer un aprendizaje significativo, funcional y conectado con la realidad del alumnado.</li>\n<li>ODS 9: Industria, innovación e infraestructura, al desarrollar competencias relacionadas con la comprensión de los sistemas tecnológicos, las redes de comunicación y la innovación digital, aspectos clave en la sociedad contemporánea.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+      <odeBlockId>block-1774297637695-ns44bvs1z</odeBlockId>
+      <blockName>Retos del siglo XXI</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297053447-3k0w2pmi7</odePageId>
+          <odeBlockId>block-1774297637695-ns44bvs1z</odeBlockId>
+          <odeIdeviceId>idevice-1774297637692-hs8rvi4zs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA contribuye al desarrollo de competencias clave necesarias en el siglo XXI, tales como:</p>
+<ul>
+<li>Competencia digital, mediante el uso de herramientas tecnológicas y la comprensión del funcionamiento básico de sistemas operativos, redes y recursos digitales.</li>
+<li>Pensamiento crítico, al analizar la evolución de la tecnología, interpretar información técnica básica y valorar de forma reflexiva las ventajas, limitaciones y riesgos del entorno digital.</li>
+<li>Ciberseguridad, fomentando hábitos de uso responsable y seguro de dispositivos, redes y servicios en línea, así como estrategias básicas de protección frente a amenazas digitales.</li>
+<li>Adaptación al cambio tecnológico, al acercar al alumnado a conceptos actuales como la virtualización, la computación en la nube, el Internet de las Cosas o las redes de nueva generación, favoreciendo una comprensión amplia de los cambios tecnológicos que configuran el presente y el futuro.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297637692-hs8rvi4zs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA contribuye al desarrollo de competencias clave necesarias en el siglo XXI, tales como:</p>\n<ul>\n<li>Competencia digital, mediante el uso de herramientas tecnológicas y la comprensión del funcionamiento básico de sistemas operativos, redes y recursos digitales.</li>\n<li>Pensamiento crítico, al analizar la evolución de la tecnología, interpretar información técnica básica y valorar de forma reflexiva las ventajas, limitaciones y riesgos del entorno digital.</li>\n<li>Ciberseguridad, fomentando hábitos de uso responsable y seguro de dispositivos, redes y servicios en línea, así como estrategias básicas de protección frente a amenazas digitales.</li>\n<li>Adaptación al cambio tecnológico, al acercar al alumnado a conceptos actuales como la virtualización, la computación en la nube, el Internet de las Cosas o las redes de nueva generación, favoreciendo una comprensión amplia de los cambios tecnológicos que configuran el presente y el futuro.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+      <odeBlockId>block-1774297714821-zfcycwicp</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+          <odeBlockId>block-1774297714821-zfcycwicp</odeBlockId>
+          <odeIdeviceId>idevice-1774297714819-lexrypzhe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencia digital, mediante el uso responsable, crítico y seguro de herramientas tecnológicas, así como la comprensión básica del funcionamiento de sistemas operativos y redes.</li>
+<li>Aprender a aprender, a través de la búsqueda, selección, organización y aplicación de la información en diferentes formatos y contextos.</li>
+<li>Competencia en comunicación lingüística, mediante la elaboración de contenidos digitales y la exposición oral de información técnica de forma clara, estructurada y comprensible.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297714819-lexrypzhe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencia digital, mediante el uso responsable, crítico y seguro de herramientas tecnológicas, así como la comprensión básica del funcionamiento de sistemas operativos y redes.</li>\n<li>Aprender a aprender, a través de la búsqueda, selección, organización y aplicación de la información en diferentes formatos y contextos.</li>\n<li>Competencia en comunicación lingüística, mediante la elaboración de contenidos digitales y la exposición oral de información técnica de forma clara, estructurada y comprensible.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+      <odeBlockId>block-1774297754568-mq9kmh4ts</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+          <odeBlockId>block-1774297754568-mq9kmh4ts</odeBlockId>
+          <odeIdeviceId>idevice-1774297754566-55gpzhiu0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Comprender el funcionamiento básico de los sistemas operativos, su evolución y su papel en la gestión de los recursos del sistema.</li>
+<li>Identificar los diferentes tipos de redes, sus componentes y los principales protocolos que permiten la comunicación entre dispositivos.</li>
+<li>Analizar el papel de los sistemas operativos en la gestión de redes y en el intercambio de información.</li>
+<li>Reconocer los riesgos asociados al uso de entornos digitales y aplicar medidas básicas de seguridad informática.</li>
+<li>Elaborar y comunicar contenidos digitales utilizando distintos formatos, integrando información técnica de manera clara y accesible.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297754566-55gpzhiu0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Comprender el funcionamiento básico de los sistemas operativos, su evolución y su papel en la gestión de los recursos del sistema.</li>\n<li>Identificar los diferentes tipos de redes, sus componentes y los principales protocolos que permiten la comunicación entre dispositivos.</li>\n<li>Analizar el papel de los sistemas operativos en la gestión de redes y en el intercambio de información.</li>\n<li>Reconocer los riesgos asociados al uso de entornos digitales y aplicar medidas básicas de seguridad informática.</li>\n<li>Elaborar y comunicar contenidos digitales utilizando distintos formatos, integrando información técnica de manera clara y accesible.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+      <odeBlockId>block-1774297813113-slscxy6ad</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+          <odeBlockId>block-1774297813113-slscxy6ad</odeBlockId>
+          <odeIdeviceId>idevice-1774297813111-m9t4qf1cp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Historia y evolución de los sistemas operativos: desde los primeros sistemas hasta los actuales.</li>
+<li>Funciones del sistema operativo: gestión de procesos, memoria, dispositivos y archivos.</li>
+<li>Tipos de sistemas operativos y características principales.</li>
+<li>Redes de comunicación: tipos (LAN y WAN), componentes (router, switch, servidor, etc.) y funcionamiento básico.</li>
+<li>Protocolos de red: TCP/IP, HTTP/HTTPS, FTP, DNS y DHCP.</li>
+<li>Seguridad informática: tipos de amenazas (virus, troyanos, ransomware, spyware), medidas de protección (antivirus, cortafuegos, cifrado).</li>
+<li>Virtualización de sistemas operativos y su aplicación en entornos tecnológicos actuales.</li>
+<li>Introducción a tendencias tecnológicas: computación en la nube, IoT y redes de nueva generación.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297813111-m9t4qf1cp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Historia y evolución de los sistemas operativos: desde los primeros sistemas hasta los actuales.</li>\n<li>Funciones del sistema operativo: gestión de procesos, memoria, dispositivos y archivos.</li>\n<li>Tipos de sistemas operativos y características principales.</li>\n<li>Redes de comunicación: tipos (LAN y WAN), componentes (router, switch, servidor, etc.) y funcionamiento básico.</li>\n<li>Protocolos de red: TCP/IP, HTTP/HTTPS, FTP, DNS y DHCP.</li>\n<li>Seguridad informática: tipos de amenazas (virus, troyanos, ransomware, spyware), medidas de protección (antivirus, cortafuegos, cifrado).</li>\n<li>Virtualización de sistemas operativos y su aplicación en entornos tecnológicos actuales.</li>\n<li>Introducción a tendencias tecnológicas: computación en la nube, IoT y redes de nueva generación.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+      <odeBlockId>block-1774297894959-nt3q8928l</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297086932-o9c2nhb1j</odePageId>
+          <odeBlockId>block-1774297894959-nt3q8928l</odeBlockId>
+          <odeIdeviceId>idevice-1774297894956-y731s7ian</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Explica de manera clara y coherente el funcionamiento de los sistemas operativos y su evolución.</li>
+<li>Identifica los elementos básicos de una red y distingue entre diferentes tipos de redes y sus características.</li>
+<li>Describe el papel de los protocolos en la comunicación entre dispositivos.</li>
+<li>Reconoce y diferencia los principales riesgos y amenazas en entornos digitales.</li>
+<li>Aplica medidas básicas de seguridad en el uso de dispositivos, redes y servicios digitales.</li>
+<li>Elabora productos digitales (infografía y podcast) con información relevante, bien estructurada y adaptada al contexto.</li>
+<li>Participa activamente en el trabajo cooperativo, asumiendo responsabilidades y contribuyendo al desarrollo del proyecto.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297894956-y731s7ian","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Explica de manera clara y coherente el funcionamiento de los sistemas operativos y su evolución.</li>\n<li>Identifica los elementos básicos de una red y distingue entre diferentes tipos de redes y sus características.</li>\n<li>Describe el papel de los protocolos en la comunicación entre dispositivos.</li>\n<li>Reconoce y diferencia los principales riesgos y amenazas en entornos digitales.</li>\n<li>Aplica medidas básicas de seguridad en el uso de dispositivos, redes y servicios digitales.</li>\n<li>Elabora productos digitales (infografía y podcast) con información relevante, bien estructurada y adaptada al contexto.</li>\n<li>Participa activamente en el trabajo cooperativo, asumiendo responsabilidades y contribuyendo al desarrollo del proyecto.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774297114297-ljzxvdrhm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774297114297-ljzxvdrhm</odePageId>
+      <odeBlockId>block-1774297968552-t78gcjjk2</odeBlockId>
+      <blockName>Aprendizaje Basado en Proyectos (ABP)</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297114297-ljzxvdrhm</odePageId>
+          <odeBlockId>block-1774297968552-t78gcjjk2</odeBlockId>
+          <odeIdeviceId>idevice-1774297968549-vag48kyrg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La metodología principal de esta situación de aprendizaje es el Aprendizaje Basado en Proyectos (ABP), estructurado en torno a un reto inicial:</p>
+<p>¿Cómo podemos explicar de forma clara, útil y accesible a la comunidad educativa qué son los sistemas operativos, cómo funcionan las redes y qué medidas básicas de seguridad digital debemos aplicar en nuestra vida diaria?<br />A partir de este planteamiento, el alumnado desarrollará un proyecto final que integra la creación de una infografía interactiva y un podcast, en los que deberá aplicar los conocimientos adquiridos sobre sistemas operativos, redes y ciberseguridad.</p>
+<p>Este enfoque favorece un aprendizaje significativo y funcional, ya que el alumnado trabaja sobre una tarea realista y contextualizada, vinculada con situaciones de la vida cotidiana. Asimismo, promueve el desarrollo de competencias clave como la competencia digital, la comunicación lingüística y el pensamiento crítico, al requerir la selección, organización y transmisión de información técnica de forma comprensible.</p>
+<p>Además, el ABP permite adaptar el nivel de profundidad de los contenidos, priorizando una comprensión global, aplicada y accesible frente a un enfoque excesivamente técnico, ajustándose así a las características del alumnado adulto de ESPA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297968549-vag48kyrg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La metodología principal de esta situación de aprendizaje es el Aprendizaje Basado en Proyectos (ABP), estructurado en torno a un reto inicial:</p>\n<p>¿Cómo podemos explicar de forma clara, útil y accesible a la comunidad educativa qué son los sistemas operativos, cómo funcionan las redes y qué medidas básicas de seguridad digital debemos aplicar en nuestra vida diaria?<br />A partir de este planteamiento, el alumnado desarrollará un proyecto final que integra la creación de una infografía interactiva y un podcast, en los que deberá aplicar los conocimientos adquiridos sobre sistemas operativos, redes y ciberseguridad.</p>\n<p>Este enfoque favorece un aprendizaje significativo y funcional, ya que el alumnado trabaja sobre una tarea realista y contextualizada, vinculada con situaciones de la vida cotidiana. Asimismo, promueve el desarrollo de competencias clave como la competencia digital, la comunicación lingüística y el pensamiento crítico, al requerir la selección, organización y transmisión de información técnica de forma comprensible.</p>\n<p>Además, el ABP permite adaptar el nivel de profundidad de los contenidos, priorizando una comprensión global, aplicada y accesible frente a un enfoque excesivamente técnico, ajustándose así a las características del alumnado adulto de ESPA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297114297-ljzxvdrhm</odePageId>
+      <odeBlockId>block-1774297990412-9523e1x1j</odeBlockId>
+      <blockName>Aprendizaje cooperativo</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297114297-ljzxvdrhm</odePageId>
+          <odeBlockId>block-1774297990412-9523e1x1j</odeBlockId>
+          <odeIdeviceId>idevice-1774297990411-zqhy496vi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se fomentará el aprendizaje cooperativo mediante la organización del alumnado en pequeños grupos de trabajo, en los que cada integrante asumirá un rol específico (coordinador/a, responsable técnico, redactor/a, portavoz, etc.).</p>
+<p>Esta metodología favorece la colaboración, la responsabilidad compartida y el aprendizaje entre iguales, permitiendo que el alumnado con mayor competencia digital apoye a quienes presentan más dificultades. Asimismo, contribuye a mejorar las habilidades sociales, la toma de decisiones conjunta y la resolución de problemas.</p>
+<p>El trabajo cooperativo resulta especialmente adecuado en contextos de educación de personas adultas, donde la diversidad de experiencias y conocimientos previos constituye una oportunidad para enriquecer el proceso de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774297990411-zqhy496vi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se fomentará el aprendizaje cooperativo mediante la organización del alumnado en pequeños grupos de trabajo, en los que cada integrante asumirá un rol específico (coordinador/a, responsable técnico, redactor/a, portavoz, etc.).</p>\n<p>Esta metodología favorece la colaboración, la responsabilidad compartida y el aprendizaje entre iguales, permitiendo que el alumnado con mayor competencia digital apoye a quienes presentan más dificultades. Asimismo, contribuye a mejorar las habilidades sociales, la toma de decisiones conjunta y la resolución de problemas.</p>\n<p>El trabajo cooperativo resulta especialmente adecuado en contextos de educación de personas adultas, donde la diversidad de experiencias y conocimientos previos constituye una oportunidad para enriquecer el proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774297129375-02fwpgcqk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774297129375-02fwpgcqk</odePageId>
+      <odeBlockId>block-1774298034710-sjngho48n</odeBlockId>
+      <blockName>Planes vinculados</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297129375-02fwpgcqk</odePageId>
+          <odeBlockId>block-1774298034710-sjngho48n</odeBlockId>
+          <odeIdeviceId>idevice-1774298034709-9sotg4wtu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se vincula con diferentes planes y programas del centro:</p>
+<ul>
+<li><strong>PLEI (Plan de Lectura, Escritura e Investigación):</strong><br />Se promueve mediante la lectura comprensiva de textos de carácter técnico y divulgativo, así como a través de la elaboración de contenidos propios (infografía y guion del podcast), favoreciendo la capacidad de síntesis, organización de la información y comunicación clara.</li>
+<li><strong>PAD (Plan de Atención a la Diversidad):</strong><br />Se atiende a la diversidad del alumnado mediante la propuesta de actividades flexibles, el uso de distintos formatos (visual, oral, escrito) y la organización de agrupamientos variados. Asimismo, se adapta el nivel de complejidad de los contenidos y se fomenta el apoyo entre iguales para facilitar la inclusión y la participación de todo el alumnado.</li>
+<li><strong>Plan de Competencia Digital:</strong><br />Se desarrolla a través del uso de herramientas tecnológicas (Microsoft 365, Canva, Genially, Audacity, etc.) y mediante la comprensión del funcionamiento de sistemas operativos, redes y entornos digitales. Además, se fomenta un uso seguro, crítico y responsable de la tecnología, especialmente en relación con la ciberseguridad.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774298034709-9sotg4wtu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se vincula con diferentes planes y programas del centro:</p>\n<ul>\n<li><strong>PLEI (Plan de Lectura, Escritura e Investigación):</strong><br />Se promueve mediante la lectura comprensiva de textos de carácter técnico y divulgativo, así como a través de la elaboración de contenidos propios (infografía y guion del podcast), favoreciendo la capacidad de síntesis, organización de la información y comunicación clara.</li>\n<li><strong>PAD (Plan de Atención a la Diversidad):</strong><br />Se atiende a la diversidad del alumnado mediante la propuesta de actividades flexibles, el uso de distintos formatos (visual, oral, escrito) y la organización de agrupamientos variados. Asimismo, se adapta el nivel de complejidad de los contenidos y se fomenta el apoyo entre iguales para facilitar la inclusión y la participación de todo el alumnado.</li>\n<li><strong>Plan de Competencia Digital:</strong><br />Se desarrolla a través del uso de herramientas tecnológicas (Microsoft 365, Canva, Genially, Audacity, etc.) y mediante la comprensión del funcionamiento de sistemas operativos, redes y entornos digitales. Además, se fomenta un uso seguro, crítico y responsable de la tecnología, especialmente en relación con la ciberseguridad.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774297150470-08fzobt3d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades complementarias</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774297150470-08fzobt3d</odePageId>
+      <odeBlockId>block-1774299938235-36cdsms5o</odeBlockId>
+      <blockName>Charla de sensibilización sobre ciberseguridad impartida por un profesional del sector.</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297150470-08fzobt3d</odePageId>
+          <odeBlockId>block-1774299938235-36cdsms5o</odeBlockId>
+          <odeIdeviceId>idevice-1774299938234-e755eejaw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Charla impartida por un profesional del sector, con el objetivo de acercar al alumnado a situaciones reales y concienciar sobre los riesgos del entorno digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774299938234-e755eejaw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Charla impartida por un profesional del sector, con el objetivo de acercar al alumnado a situaciones reales y concienciar sobre los riesgos del entorno digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774297150470-08fzobt3d</odePageId>
+      <odeBlockId>block-1774299962848-tkk8n1zt1</odeBlockId>
+      <blockName>Taller práctico sobre uso seguro de dispositivos y redes.</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774297150470-08fzobt3d</odePageId>
+          <odeBlockId>block-1774299962848-tkk8n1zt1</odeBlockId>
+          <odeIdeviceId>idevice-1774299962847-cueigjw4l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado podrá aplicar de forma directa medidas básicas de protección, como la gestión de contraseñas, la identificación de amenazas o la configuración de opciones de seguridad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774299962847-cueigjw4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado podrá aplicar de forma directa medidas básicas de protección, como la gestión de contraseñas, la identificación de amenazas o la configuración de opciones de seguridad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774300003111-tihovgouu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774300003111-tihovgouu</odePageId>
+      <odeBlockId>block-1774300228088-ejoglt9st</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774300003111-tihovgouu</odePageId>
+          <odeBlockId>block-1774300228088-ejoglt9st</odeBlockId>
+          <odeIdeviceId>idevice-1774300228088-il8hgkdef</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Explorando los Sistemas Operativos y las Redes en el mundo digital</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Actividad 2a en la que se desarrolla un REA de una situación de aprendizaje de ESO para adultos</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Jesús Prieto Fuentes</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
